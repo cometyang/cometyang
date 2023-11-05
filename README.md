@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ---
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cometyang)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cometyang&theme=dark)](https://git.io/streak-stats)
 <p align="center">
 
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cometyang&theme=react&hide=html,css,dockerfile,shell,ejs,stylus&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
